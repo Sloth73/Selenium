@@ -33,7 +33,7 @@
         <jarDirectory url="file://$MODULE_DIR$/../../JARs_and_drivers" recursive="false" type="SOURCES" />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="junit" level="project" />
-    <orderEntry type="library" name="bluecatcode.junit.4.10.extended" level="project" />
+    <orderEntry type="library" exported="" name="junit" level="project" />
+    <orderEntry type="library" exported="" name="testng" level="project" />
   </component>
 </module>
