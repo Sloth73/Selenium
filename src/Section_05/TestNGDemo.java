@@ -1,6 +1,6 @@
 package Section_05;
 
-import org.junit.Test;
+import org.testng.annotations.Test;
 
 public class TestNGDemo {
     @Test
