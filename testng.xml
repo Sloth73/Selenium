@@ -4,21 +4,9 @@
     <test verbose="2" preserve-order="true"
           name="/Users/macbook/Documents/Java_learning/Selenium_learning/src/Section_05">
         <classes>
-            <class name="Section_05.TestNGDemo">
+            <class name="Section_05.Homepage">
                 <methods>
-                    <include name="Hello"/>
-                </methods>
-            </class>
-            <class name="Section_05.TestingXML">
-                <methods>
-                    <include name="method1"/>
-                    <include name="method2"/>
-                </methods>
-            </class>
-            <class name="Section_05.TestingXML02">
-                <methods>
-                    <include name="method3"/>
-                    <include name="method4"/>
+                    <include name="Desktop.*"/>
                 </methods>
             </class>
         </classes>
