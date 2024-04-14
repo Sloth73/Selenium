@@ -12,7 +12,7 @@ import java.util.List;
 
 public class TravelWebsite_02 {
     public static void main(String[] args) {
-        System.setProperty("webdriver.driver.chrome", "/usr/local/bin/chromedriver");
+        System.setProperty("webdriver.driver.chrome", "/Users/macbook/Documents/chromedriver-mac-x64/chromedriver");
         WebDriver driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.get("https://www.easyjet.com/cs");

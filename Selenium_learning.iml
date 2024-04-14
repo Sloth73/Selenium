@@ -10,19 +10,6 @@
     <orderEntry type="module-library" exported="">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/../../selenium-java-4.18.1" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES>
-          <root url="file://$MODULE_DIR$/../../selenium-java-4.18.1" />
-        </SOURCES>
-        <jarDirectory url="file://$MODULE_DIR$/../../selenium-java-4.18.1" recursive="false" />
-        <jarDirectory url="file://$MODULE_DIR$/../../selenium-java-4.18.1" recursive="false" type="SOURCES" />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library" exported="">
-      <library>
-        <CLASSES>
           <root url="file://$MODULE_DIR$/../../JARs_and_drivers" />
         </CLASSES>
         <JAVADOC />
@@ -35,5 +22,19 @@
     </orderEntry>
     <orderEntry type="library" exported="" name="junit" level="project" />
     <orderEntry type="library" exported="" name="testng" level="project" />
+    <orderEntry type="library" exported="" name="bluecatcode.junit.4.10.extended" level="project" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../../selenium-java-4.18.1" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../../selenium-java-4.18.1" />
+        </SOURCES>
+        <jarDirectory url="file://$MODULE_DIR$/../../selenium-java-4.18.1" recursive="false" />
+        <jarDirectory url="file://$MODULE_DIR$/../../selenium-java-4.18.1" recursive="false" type="SOURCES" />
+      </library>
+    </orderEntry>
   </component>
 </module>
